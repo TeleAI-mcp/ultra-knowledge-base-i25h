@@ -1,2 +1,3 @@
-# ultra-knowledge-base-i25h
-Automated issue comment bot repository
+# Ultra Knowledge Base I25H
+
+Automated issue comment bot repository.
